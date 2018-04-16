@@ -2,8 +2,7 @@
 
 ### What works?
 
-  - Multi-Monitor
-  - Full acceleration
+  - Multi-Monitor full acceleration with ZOTAC GeForce® GTX 1050 OC
   - Audio
   - Ethernet
   - And all necessary stuff you need
