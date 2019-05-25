@@ -8,3 +8,4 @@
   - Ethernet
   - And all necessary stuff you need
   - BCM94360CD Wireless/Bluetooth card OOB
+  - Sleep and Wake
