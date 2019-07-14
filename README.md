@@ -1,5 +1,4 @@
-# Hackintosh ASUS Z170K and AMD HD7750 GDDR5
-
+# Hackintosh built on Skylake Asus-Z170k and Sapphire RX580 Pulse 8GB GPU 
 ![alt text](https://raw.githubusercontent.com/29satnam/ASUS-Z170k_GTX1050_Hackintosh/master/simage.png)
 
 ### What works?
