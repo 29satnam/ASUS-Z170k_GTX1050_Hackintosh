@@ -3,11 +3,11 @@
 
 ### What works?
 
-  - Multi-Monitor full acceleration with AMD HD7750 GDDR5 (DP AND HDMI)
+  - Multi-Monitor with full acceleration
   - Ethernet
   - And all necessary stuff you need
   - BCM94360CD Wireless/Bluetooth card OOB
   - Sleep and Wake
 
-### Hardware Acceleration
+### Hardware Acceleration:
 ![alt text](https://raw.githubusercontent.com/29satnam/Skylake-RX580-Hackintosh/master/videoprocapp.png)
