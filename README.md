@@ -8,3 +8,6 @@
   - And all necessary stuff you need
   - BCM94360CD Wireless/Bluetooth card OOB
   - Sleep and Wake
+
+### Hardware Acceleration
+![alt text](https://raw.githubusercontent.com/29satnam/Skylake-RX580-Hackintosh/master/videoprocapp.png)
