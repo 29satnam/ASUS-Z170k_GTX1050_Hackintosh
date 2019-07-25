@@ -15,4 +15,4 @@
 
 ### Geekbench 4:
 ![alt text](https://raw.githubusercontent.com/29satnam/Skylake-RX580-Hackintosh/master/geekbench.png)
-![Link to Geekbench](https://browser.geekbench.com/v4/cpu/14036508)
+[Link to Geekbench](https://browser.geekbench.com/v4/cpu/14036508)
