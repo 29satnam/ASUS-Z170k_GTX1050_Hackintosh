@@ -12,10 +12,10 @@
 ### Hardware Acceleration:
 ![alt text](https://raw.githubusercontent.com/29satnam/Skylake-RX580-Hackintosh/master/videoprocapp.png)
 
-
-### Geekbench 4:
-![alt text](https://raw.githubusercontent.com/29satnam/Skylake-RX580-Hackintosh/master/geekbench.png)
-[Link to Geekbench](https://browser.geekbench.com/v4/cpu/14036508)
-
+### Geekbench 4 GPU:
 ![alt text](https://raw.githubusercontent.com/29satnam/Skylake-RX580-Hackintosh/master/geekbenchgpu.png)
 [Link to Geekbench](https://browser.geekbench.com/v4/compute/4339920)
+
+### Geekbench 4 CPU:
+![alt text](https://raw.githubusercontent.com/29satnam/Skylake-RX580-Hackintosh/master/geekbench.png)
+[Link to Geekbench](https://browser.geekbench.com/v4/cpu/14036508)
