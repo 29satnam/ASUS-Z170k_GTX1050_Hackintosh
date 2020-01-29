@@ -1,4 +1,4 @@
-# Hackintosh built on Skylake Asus-Z170k and Sapphire RX580 Pulse 8GB GPU 
+# OpenCore Hackintosh built on Skylake Asus-Z170k and Sapphire RX580 Pulse 8GB GPU 
 ![alt text](https://raw.githubusercontent.com/29satnam/Skylake-RX580-Hackintosh/master/simage.png)
 
 ### OpenCore
