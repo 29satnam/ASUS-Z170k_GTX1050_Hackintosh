@@ -7,7 +7,7 @@
 
 #### Why OpenCore?
   - Better memory management, 8 seconds bootup time.
-  - Dual screen issue with the newer clover builds, I've not been update clover for some time.
+  - Dual screen issue with the newer clover builds, I've not been able to update clover for some time.
   - OpenCore seems like the future of hackintosh machines.
 
 #### BIOS Settings
