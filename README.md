@@ -3,7 +3,7 @@
 
 ### What works?
 
-  - Multi-Monitor full acceleration with AMD HD7750 GDDR5 (DP AND HDMI)
+  - Multi-Monitor full acceleration (DP AND HDMI)
   - Ethernet
   - And all necessary stuff you need
   - BCM94360CD Wireless/Bluetooth card OOB
